@@ -5118,7 +5118,7 @@ ul{
 	background-color: #C83200;
 }
 
-.container h3{
+.container h6{
 	color: white;
 	font-size: 50px;
 	text-align: center;
@@ -5126,8 +5126,8 @@ ul{
 	padding-top: 40px;
 	text-decoration: underline;
 	position: absolute;
-	top: 2820px;
-	left: 250px;
+	top: 2770px;
+	left: 170px;
 }
 .container h4{
 	color: white;
