@@ -91,21 +91,14 @@ body{
 	height: 50px;
 	width: 50px;
 }
-#me{
-	width: 370px;
-	height: 565px;
-	position: absolute;
-	top: 185px;
-	right: 470px;
-	border-radius: 30px;
-	border: 10px #d3eff2 solid;
+
 }
 #me2{
 	width: 340px;
 	height: 480px;
 	position: absolute;
 	top: 230px;
-	right: 90px;
+	right: 110px;
 	border-radius: 30px;
 	border: 5px #d3eff2 solid;
 }
@@ -114,7 +107,7 @@ body{
 	height: 480px;
 	position: absolute;
 	top: 230px;
-	left: 110px;
+	left: 130px;
 	border-radius: 30px;
 	border: 5px #d3eff2 solid;
 }
